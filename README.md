@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fate0121
+- 👋 Hi, I’m @Ftelx
 - 🌱 I’m currently learning Python and how to use Github
 - Let's go！！！
 <!---
